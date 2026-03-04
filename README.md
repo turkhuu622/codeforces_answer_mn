@@ -1,2 +1,2 @@
 # codeforces_answer_mn
-Solutions to Codeforces problems in Mongolian
+Codeforces-ийн бодолтууд, Монгол хэл дээрх тайлбар
